@@ -1,0 +1,24 @@
+### Etapas do desafio
+- Conectar e criar uma conta no microsoft 365
+- Criar o copilot baseado em modelo (no caso, modelo de Viagens ou "Safe Travels")
+- Criar um copilot baseado em descrição com IA
+- Criar um copilot em branco
+
+# Criando o copilot baseado em modelo
+Escolha a opção de modelo de Safe Travels;
+Escolha o nome e o icon;
+Descrição bem detalhada para facilitar a manutenção;
+As instruções definem o comportamento do bot e como ele irá responder as perguntas e ajudar o usuário;
+Selecionar a base de conhecimento;
+
+# Criando copilot baseado em descrição com IA
+Existem prompts pré prontos mas pode-se optar por fazer os seus próprios;
+Na data da gravação da aula ainda não existia suporte ao português porém talvez hoje em dia já exista;
+Ao fazer a breve descrição dos atributos necessários, o copilot será capaz de criar o bot apenas com a descrição;
+
+# Criar o copilot em branco
+Selecionar a primeira opção de 'Criar agente em branco';
+Selecionar o idioma principal;
+Prosseguir normalmente com o preenchimento dos campos necessários;
+Não é recomendado selecionar a base de conhecimento nesta etapa do processo por ainda estar muito no começo;
+Editar e selecionar a solução avançada;
